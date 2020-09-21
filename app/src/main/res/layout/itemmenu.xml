@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/delete_button1"
+        android:layout_width="100dp"
+        android:textColor="#FFFFFF"
+        android:layout_height="match_parent"
+        android:background="#FF5722"
+        android:layout_marginLeft="-10dp"
+        android:text="删除" />
+</LinearLayout>

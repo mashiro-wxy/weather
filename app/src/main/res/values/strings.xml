@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="delete_city">删除城市</string>
+    <string name="new_city">新增城市</string>
+    <string name="item_city_name">XX市</string>
+    <string name="null_city_list_text">无城市</string>
+    <string name="add_city">添加城市</string>
+</resources>
